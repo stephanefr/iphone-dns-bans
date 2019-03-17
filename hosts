@@ -1,0 +1,29 @@
+# /etc/hosts style file, ready to be loaded by pi-hole
+# some entries may be documented if I found useful info on the internets.
+# Copyleft SLT, March 17 2019.
+#
+#
+# see https://github.com/YalePrivacyLab/tracker-profiles/blob/master/trackers/mParticle.md
+0.0.0.0 identity.mparticle.com
+# see https://www.hybrid-analysis.com/sample/e3b1cbe3c67d30e704aa09fb6d329fa4d1ab62df26b8816016eed468ece56d73?environmentId=200
+# airBnB
+0.0.0.0 iert.shuzilm.cn
+# LeBonCoin app
+0.0.0.0 cis.schibsted.com
+# bought by Microsoft = dc.applicationinsights.microsoft.com dc.trafficmanager.net
+0.0.0.0 gate.hockeyapp.net
+
+# Unkown
+
+# Under test
+0.0.0.0 adlic.rjfun.com
+0.0.0.0 collector-pxphwoqumu.perimeterx.net
+
+# pi-hole regex
+#.+\.mordi.fun
+#.+\.ohcymio.com
+#.+\.solution.weborama.fr
+#ad.*\.forter.com
+#adlic.*\.elasticbeanstalk.com
+#collector.*\.perimeterx.net
+#consumer.*\.exacttargetapis.com
