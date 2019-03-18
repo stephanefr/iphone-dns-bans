@@ -12,6 +12,8 @@
 0.0.0.0 cis.schibsted.com
 # bought by Microsoft = dc.applicationinsights.microsoft.com dc.trafficmanager.net
 0.0.0.0 gate.hockeyapp.net
+# walk/cycle/run/meter apps
+0.0.0.0 device-request.abvio.com
 
 # Unkown
 
@@ -25,5 +27,6 @@
 #.+\.solution.weborama.fr
 #ad.*\.forter.com
 #adlic.*\.elasticbeanstalk.com
+#bazaarvoice.*\.dn.apigee.net
 #collector.*\.perimeterx.net
 #consumer.*\.exacttargetapis.com
