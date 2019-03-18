@@ -2,6 +2,7 @@
 #
 #
 # pi-hole regex
+.\.jpush.cn
 .+\.mordi.fun
 .+\.ohcymio.com
 .+\.solution.weborama.fr
