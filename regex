@@ -1,0 +1,12 @@
+# List of banned domain names using regex in [pi-hole](https://pi-hole.net "pi-hole project page")
+#
+#
+# pi-hole regex
+.+\.mordi.fun
+.+\.ohcymio.com
+.+\.solution.weborama.fr
+ad.*\.forter.com
+adlic.*\.elasticbeanstalk.com
+bazaarvoice.*\.dn.apigee.net
+collector.*\.perimeterx.net
+consumer.*\.exacttargetapis.com
